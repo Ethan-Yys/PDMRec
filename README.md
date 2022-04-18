@@ -8,4 +8,4 @@ python run.py --model MyModel
 
 
 
-you can change the hyper-parameters in Config.py
+you can change the hyper-parameters in onfig.py
